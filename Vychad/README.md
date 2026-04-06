@@ -1,2 +1,0 @@
-# Vychad
-Game Development
